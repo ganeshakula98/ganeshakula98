@@ -46,8 +46,10 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
-<a href="https://neo4j.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="40" height="40"/> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="typescript" width="40" height="40"/> 
+</a> 
+
 </a> 
 </p>
 
