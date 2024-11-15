@@ -1,10 +1,10 @@
-# Manisha Gatla
+# Ganesh Akula
 
-**Senior Software Engineer**
+**Software Engineer II**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-gatla-ab119b236/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/manishagatla)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:manishagatla181997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-aakula)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ganeshakula98)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:ganesh.aakula@gmail.com)
 
 ---
 ## 🛠 Languages
