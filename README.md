@@ -60,18 +60,15 @@
   University of Central Missouri, Kansas City, MO
 
 - **Bachelor of Technology and Science**  
-  Jawaharlal Nehru Technological University, Hyderabad, India
+  Chaitanya Bharathi Institute of Technology, Hyderabad, India
 
 ---
 
-## 🏆 Achievements
+## 🏆 Certifications
 
-- **Microsoft Spotlight Award**  
-  Honored for launching a feature displaying all actions performed on requests as a history tab.
+- **AZ-900 Microsoft Azure Fundamentals**  
 
-- **Pinnacle Award (Accenture)**  
-  Awarded for successfully implementing a new workflow in the application.
-
+- **Member of Phi Kappa Phi Honor Society**  
 ---
 
 ## 📂 Projects
