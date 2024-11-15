@@ -73,43 +73,14 @@
 
 ## 📂 Projects
 
-### Dine on Campus
-- **Technologies:** React, Node.js, MongoDB
-- Pre-booking system for campus dining services with role-based access management.
-- [![Repository Link](https://img.shields.io/badge/Repository-Dine%20on%20Campus-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/DineOnCampus)
-
-### Amtrak
-- **Technologies:** Python, Angular, MongoDB
-- Comprehensive transportation booking system with a robust backend and frontend.
-- [![Repository Link](https://img.shields.io/badge/Repository-Amtrak-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Amtraak)
-
-### Photo Validation
-- **Technologies:** Angular, AWS Services (Lambda, API Gateway, DynamoDB, S3, EC2)
-- Web-based application with face recognition for secure authentication and sentiment analysis.
-- [![Repository Link](https://img.shields.io/badge/Repository-Photo%20Validation-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Photo_Validation)
-
-### Book My Doctor
-- **Technologies:** Angular, Node.js, MongoDB
-- Built Book My Doctor to ease healthcare booking.
-- [![Repository Link](https://img.shields.io/badge/Repository-Book%20My%20Doctor-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/BookMyDoc)
-
-### Image Analysis Tool
-- **Technologies:** Angular, Node.js, Azure Services
-- Created an Image Analysis tool for sentiment analysis.
-- [![Repository Link](https://img.shields.io/badge/Repository-Image%20Analysis%20Tool-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/Image-Analysis)
-
-### TreeSeedlingCart
-- **Technologies:** Angular, .NET Web API, C#, Entity Framework, SQL (Stored Procedures)
-- Developed a TreeSeedlingCart application.
-- [![Repository Link](https://img.shields.io/badge/Repository-TreeSeedlingCart-181717?style=for-the-badge&logo=github)](https://github.com/manishaGatla/TreeSeedlingShoppingCart)
 
   
 ---
 
 ## 💼 Professional Experience
 
-### GEP Solutions Worldwide (June 2022 - April 2023)
-**Senior Software Engineer**
+### Micron Technology, Inc (July 2020 – May 2023)
+**Software Engineer**
     
 As a Senior Software Engineer, I have consistently delivered high-quality, defect-free projects on time by leveraging rigorous testing, continuous integration, and deployment practices. My expertise in UI development with Angular and React.js is focused on creating responsive designs and enhancing user accessibility, which has significantly improved user interaction and satisfaction.
 
@@ -124,8 +95,8 @@ Additionally, I implemented reusable components and hooks in React, optimized ap
 My innovative approach to user-centric experiences prioritizes self-service capabilities and leverages low-code development to enhance overall application usability and efficiency.
 
 
-### Accenture Private Limited (June 2019 - June 2022)
-**Senior Software Engineer**
+### NCR Corporation (January 2020 – July 2020 )
+**Software Engineer Intern**
  
 In my role as a Senior Software Engineer, I have ensured a seamless and inclusive user experience across various devices by leveraging CSS media queries, Bootstrap, and aria-attributes. I implemented Azure Web Jobs and Function Apps to run at regular intervals, fetching details from the Microsoft CRM application, and collaborated with cross-functional teams to design and implement responsive, mobile-first user interfaces using React and CSS frameworks like Tailwind CSS and Bootstrap.
 
@@ -139,5 +110,5 @@ I implemented Angular for effective server-side communication and error handling
 
 ## 📫 Contact
 
-- **Email:** manishagatla181997@gmail.com
-- **Alternate Email:** mxg23390@ucmo.edu
+- **Email:** ganesh.aakula@gmail.com
+- **Alternate Email:** gxa91490@ucmo.edu
